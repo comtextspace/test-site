@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink"><description><title-info><genre>unrecognised</genre><author><first-name>Василий</first-name><middle-name>Иванович</middle-name><last-name>Петров</last-name></author><book-title>Книга первая</book-title></title-info><document-info><program-used>pandoc</program-used></document-info></description><body><section id="книга-первая"><title><p>Книга первая</p></title><p>Текст книги.</p></section></body></FictionBook>
