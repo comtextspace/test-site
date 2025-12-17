@@ -8,5 +8,10 @@ jobs:
   call-deploy:
     uses: comtextspace/comtext-builder-workflow/.github/workflows/deploy.yml@main
     with:
-      url: null
-# Для добавления домена уберите комментарии и укажите свой домен
+      url: null 
+
+# Для добавления своего домена замените null на свой домен
+#
+# Например
+# url: mysite.net
+

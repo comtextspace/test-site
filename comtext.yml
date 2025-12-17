@@ -1,6 +1,6 @@
 vuepress:
   title: "Пример сайта"
-  base: "/"
+  base: "/test-site/"
   revisionmeProjectId: ""
 
 pages:
