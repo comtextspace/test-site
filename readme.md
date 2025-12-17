@@ -1,7 +1,5 @@
 # Пример создания сайта с книгами
 
-[![Actions Status](https://github.com/comtextspace/test-site/workflows/deploy_site/badge.svg)](https://github.com/comtextspace/test-site/actions)
-
 Инструкция по созданию сайта с книгами на основе технологий ComText. Подходит для библиотеки или архива статей.
 
 Примеры архивов:
