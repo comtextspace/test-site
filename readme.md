@@ -1,4 +1,4 @@
-# Пример создания сайта с книгами.
+# Пример создания сайта с книгами
 
 [![Actions Status](https://github.com/comtextspace/test-site/workflows/deploy_site/badge.svg)](https://github.com/comtextspace/test-site/actions)
 
